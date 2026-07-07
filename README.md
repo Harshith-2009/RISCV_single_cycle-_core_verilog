@@ -1,1 +1,1 @@
-# RISCV_single_cycle-_core_verilog
+# RISCV_single_cycle_core_verilog

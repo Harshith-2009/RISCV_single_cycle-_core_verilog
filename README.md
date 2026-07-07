@@ -1,4 +1,4 @@
-<img width="335" height="591" alt="image" src="https://github.com/user-attachments/assets/5a5ac235-e09e-484a-8681-f090834318de" /># RISC-V Single Cycle Processor (Verilog)
+# RISC-V Single Cycle Processor (Verilog)
 
 A **32-bit Single Cycle RISC-V (RV32I)** processor implemented in **Verilog HDL** by following the architecture described in **Digital Design and Computer Architecture (RISC-V Edition)**.
 
